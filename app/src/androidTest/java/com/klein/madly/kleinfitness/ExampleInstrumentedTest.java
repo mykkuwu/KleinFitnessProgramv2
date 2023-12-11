@@ -1,4 +1,4 @@
-package com.zephgv.mad.beastfitness;
+package com.klein.madly.kleinfitness;
 
 import android.content.Context;
 
