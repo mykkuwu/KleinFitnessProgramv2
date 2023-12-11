@@ -22,7 +22,7 @@ import com.google.firebase.firestore.DocumentSnapshot;
 import com.google.firebase.firestore.EventListener;
 import com.google.firebase.firestore.FirebaseFirestore;
 import com.google.firebase.firestore.FirebaseFirestoreException;
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.WindowManager;
 
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class SplashActivity extends AppCompatActivity {
 

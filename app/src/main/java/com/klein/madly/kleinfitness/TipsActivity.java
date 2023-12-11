@@ -6,7 +6,7 @@ import android.os.Bundle;
 import android.view.WindowManager;
 import android.webkit.WebView;
 
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class TipsActivity extends AppCompatActivity {
 

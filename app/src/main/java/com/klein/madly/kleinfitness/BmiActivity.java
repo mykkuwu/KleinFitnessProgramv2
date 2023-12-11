@@ -12,7 +12,7 @@ import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class BmiActivity extends AppCompatActivity {
 

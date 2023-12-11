@@ -11,7 +11,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class HomeFragment extends Fragment {
 

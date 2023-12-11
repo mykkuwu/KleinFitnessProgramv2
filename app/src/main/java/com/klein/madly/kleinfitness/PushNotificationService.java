@@ -11,7 +11,7 @@ import androidx.core.app.NotificationManagerCompat;
 
 import com.google.firebase.messaging.FirebaseMessagingService;
 import com.google.firebase.messaging.RemoteMessage;
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class PushNotificationService extends FirebaseMessagingService {
     @RequiresApi(api = Build.VERSION_CODES.O)

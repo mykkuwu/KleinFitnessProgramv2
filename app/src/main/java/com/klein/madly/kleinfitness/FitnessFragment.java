@@ -13,7 +13,7 @@ import android.widget.ImageView;
 import android.widget.Toast;
 
 
-import com.zephgv.mad.beastfitness.R;
+import com.klein.madly.kleinfitness.R;
 
 public class FitnessFragment extends Fragment {
 
